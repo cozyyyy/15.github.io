@@ -5,6 +5,7 @@ body{
   padding-left: 0.5em;
   padding-right: 0.5em;
 	font-family: "Helvetica Neue", Arial, sans-serif;
+	font-size: 1em;
 }
 @media print{
 	body{
@@ -17,7 +18,7 @@ h1 {
 }
 
 h2 {
-  font-size: 1.35em;
+  font-size: 1.4em;
 }
 
 a {
