@@ -1,7 +1,7 @@
 body{
-	margin:1em auto;
+	margin:0em auto;
 	max-width:40em;
-	padding-top: 0.2em;
+	padding-top: 0.15em;
   padding-left: 0.5em;
   padding-right: 0.5em;
 	font-family: "Helvetica Neue", Arial, sans-serif;
@@ -19,6 +19,10 @@ h1 {
 
 h2 {
   font-size: 1.5em;
+}
+
+p {
+	font-size: 1em;
 }
 
 a {
